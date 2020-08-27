@@ -440,4 +440,4 @@ async def mpog(ctx):
     await asyncio.sleep(.5)
     await ctx.send('https://cdn.discordapp.com/attachments/746411118972633112/747627718681559050/pog.png')
     
-client.run('NzMyNjI5MDU2NzM0MTAxNTQ2.XxCbTQ.K79s5GkiO7dARKGgpHQv0s__7zM')
+client.run(os.environ['token'])
