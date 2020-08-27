@@ -1,0 +1,12 @@
+git+https://github.com/Rapptz/discord.py@rewrite
+wheel
+ffmpeg
+youtube_dl
+PyNaCl
+requests
+datetime
+random
+json
+async-timeout==3.0.1
+dnspython==1.16.0
+pandas
